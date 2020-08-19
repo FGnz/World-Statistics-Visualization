@@ -1,0 +1,691 @@
+Entity,Code,Year,Corruption Perception Index
+Afghanistan,AFG,2012,8
+Afghanistan,AFG,2013,8
+Afghanistan,AFG,2014,12
+Afghanistan,AFG,2015,11
+Albania,ALB,2012,33
+Albania,ALB,2013,31
+Albania,ALB,2014,33
+Albania,ALB,2015,36
+Algeria,DZA,2012,34
+Algeria,DZA,2013,36
+Algeria,DZA,2014,36
+Algeria,DZA,2015,36
+Angola,AGO,2012,22
+Angola,AGO,2013,23
+Angola,AGO,2014,19
+Angola,AGO,2015,15
+Argentina,ARG,2012,35
+Argentina,ARG,2013,34
+Argentina,ARG,2014,34
+Argentina,ARG,2015,32
+Armenia,ARM,2012,34
+Armenia,ARM,2013,36
+Armenia,ARM,2014,37
+Armenia,ARM,2015,35
+Australia,AUS,2012,85
+Australia,AUS,2013,81
+Australia,AUS,2014,80
+Australia,AUS,2015,79
+Austria,AUT,2012,69
+Austria,AUT,2013,69
+Austria,AUT,2014,72
+Austria,AUT,2015,76
+Azerbaijan,AZE,2012,27
+Azerbaijan,AZE,2013,28
+Azerbaijan,AZE,2014,29
+Azerbaijan,AZE,2015,29
+Bahamas,BHS,2012,71
+Bahamas,BHS,2013,71
+Bahamas,BHS,2014,71
+Bahrain,BHR,2012,51
+Bahrain,BHR,2013,48
+Bahrain,BHR,2014,49
+Bahrain,BHR,2015,51
+Bangladesh,BGD,2012,26
+Bangladesh,BGD,2013,27
+Bangladesh,BGD,2014,25
+Bangladesh,BGD,2015,25
+Barbados,BRB,2012,76
+Barbados,BRB,2013,75
+Barbados,BRB,2014,74
+Belarus,BLR,2012,31
+Belarus,BLR,2013,29
+Belarus,BLR,2014,31
+Belarus,BLR,2015,32
+Belgium,BEL,2012,75
+Belgium,BEL,2013,75
+Belgium,BEL,2014,76
+Belgium,BEL,2015,77
+Benin,BEN,2012,36
+Benin,BEN,2013,36
+Benin,BEN,2014,39
+Benin,BEN,2015,37
+Bhutan,BTN,2012,63
+Bhutan,BTN,2013,63
+Bhutan,BTN,2014,65
+Bhutan,BTN,2015,65
+Bolivia,BOL,2012,34
+Bolivia,BOL,2013,34
+Bolivia,BOL,2014,35
+Bolivia,BOL,2015,34
+Bosnia and Herzegovina,BIH,2012,42
+Bosnia and Herzegovina,BIH,2013,42
+Bosnia and Herzegovina,BIH,2014,39
+Bosnia and Herzegovina,BIH,2015,38
+Botswana,BWA,2012,65
+Botswana,BWA,2013,64
+Botswana,BWA,2014,63
+Botswana,BWA,2015,63
+Brazil,BRA,2012,43
+Brazil,BRA,2013,42
+Brazil,BRA,2014,43
+Brazil,BRA,2015,38
+Bulgaria,BGR,2012,41
+Bulgaria,BGR,2013,41
+Bulgaria,BGR,2014,43
+Bulgaria,BGR,2015,41
+Burkina Faso,BFA,2012,38
+Burkina Faso,BFA,2013,38
+Burkina Faso,BFA,2014,38
+Burkina Faso,BFA,2015,38
+Burundi,BDI,2012,19
+Burundi,BDI,2013,21
+Burundi,BDI,2014,20
+Burundi,BDI,2015,21
+Cambodia,KHM,2012,22
+Cambodia,KHM,2013,20
+Cambodia,KHM,2014,21
+Cambodia,KHM,2015,21
+Cameroon,CMR,2012,26
+Cameroon,CMR,2013,25
+Cameroon,CMR,2014,27
+Cameroon,CMR,2015,27
+Canada,CAN,2012,84
+Canada,CAN,2013,81
+Canada,CAN,2014,81
+Canada,CAN,2015,83
+Cape Verde,CPV,2012,60
+Cape Verde,CPV,2013,58
+Cape Verde,CPV,2014,57
+Cape Verde,CPV,2015,55
+Central African Republic,CAF,2012,26
+Central African Republic,CAF,2013,25
+Central African Republic,CAF,2014,24
+Central African Republic,CAF,2015,24
+Chad,TCD,2012,19
+Chad,TCD,2013,19
+Chad,TCD,2014,22
+Chad,TCD,2015,22
+Chile,CHL,2012,72
+Chile,CHL,2013,71
+Chile,CHL,2014,73
+Chile,CHL,2015,70
+China,CHN,2012,39
+China,CHN,2013,40
+China,CHN,2014,36
+China,CHN,2015,37
+Colombia,COL,2012,36
+Colombia,COL,2013,36
+Colombia,COL,2014,37
+Colombia,COL,2015,37
+Comoros,COM,2012,28
+Comoros,COM,2013,28
+Comoros,COM,2014,26
+Comoros,COM,2015,26
+Congo,COG,2012,26
+Congo,COG,2013,22
+Congo,COG,2014,23
+Congo,COG,2015,23
+Costa Rica,CRI,2012,54
+Costa Rica,CRI,2013,53
+Costa Rica,CRI,2014,54
+Costa Rica,CRI,2015,55
+Cote d'Ivoire,CIV,2012,29
+Cote d'Ivoire,CIV,2013,27
+Cote d'Ivoire,CIV,2014,32
+Cote d'Ivoire,CIV,2015,32
+Croatia,HRV,2012,46
+Croatia,HRV,2013,48
+Croatia,HRV,2014,48
+Croatia,HRV,2015,51
+Cuba,CUB,2012,48
+Cuba,CUB,2013,46
+Cuba,CUB,2014,46
+Cuba,CUB,2015,47
+Cyprus,CYP,2012,66
+Cyprus,CYP,2013,63
+Cyprus,CYP,2014,63
+Cyprus,CYP,2015,61
+Czech Republic,CZE,2012,49
+Czech Republic,CZE,2013,48
+Czech Republic,CZE,2014,51
+Czech Republic,CZE,2015,56
+Democratic Republic of Congo,COD,2012,21
+Democratic Republic of Congo,COD,2013,22
+Democratic Republic of Congo,COD,2014,22
+Democratic Republic of Congo,COD,2015,22
+Denmark,DNK,2012,90
+Denmark,DNK,2013,91
+Denmark,DNK,2014,92
+Denmark,DNK,2015,91
+Djibouti,DJI,2012,36
+Djibouti,DJI,2013,36
+Djibouti,DJI,2014,34
+Djibouti,DJI,2015,34
+Dominica,DMA,2012,58
+Dominica,DMA,2013,58
+Dominica,DMA,2014,58
+Dominican Republic,DOM,2012,32
+Dominican Republic,DOM,2013,29
+Dominican Republic,DOM,2014,32
+Dominican Republic,DOM,2015,33
+Ecuador,ECU,2012,32
+Ecuador,ECU,2013,35
+Ecuador,ECU,2014,33
+Ecuador,ECU,2015,32
+Egypt,EGY,2012,32
+Egypt,EGY,2013,32
+Egypt,EGY,2014,37
+Egypt,EGY,2015,36
+El Salvador,SLV,2012,38
+El Salvador,SLV,2013,38
+El Salvador,SLV,2014,39
+El Salvador,SLV,2015,39
+Eritrea,ERI,2012,25
+Eritrea,ERI,2013,20
+Eritrea,ERI,2014,18
+Eritrea,ERI,2015,18
+Estonia,EST,2012,64
+Estonia,EST,2013,68
+Estonia,EST,2014,69
+Estonia,EST,2015,70
+Ethiopia,ETH,2012,33
+Ethiopia,ETH,2013,33
+Ethiopia,ETH,2014,33
+Ethiopia,ETH,2015,33
+Finland,FIN,2012,90
+Finland,FIN,2013,89
+Finland,FIN,2014,89
+Finland,FIN,2015,90
+France,FRA,2012,71
+France,FRA,2013,71
+France,FRA,2014,69
+France,FRA,2015,70
+Gabon,GAB,2012,35
+Gabon,GAB,2013,34
+Gabon,GAB,2014,37
+Gabon,GAB,2015,34
+Gambia,GMB,2012,34
+Gambia,GMB,2013,28
+Gambia,GMB,2014,29
+Gambia,GMB,2015,28
+Georgia,GEO,2012,52
+Georgia,GEO,2013,49
+Georgia,GEO,2014,52
+Georgia,GEO,2015,52
+Germany,DEU,2012,79
+Germany,DEU,2013,78
+Germany,DEU,2014,79
+Germany,DEU,2015,81
+Ghana,GHA,2012,45
+Ghana,GHA,2013,46
+Ghana,GHA,2014,48
+Ghana,GHA,2015,47
+Greece,GRC,2012,36
+Greece,GRC,2013,40
+Greece,GRC,2014,43
+Greece,GRC,2015,46
+Guatemala,GTM,2012,33
+Guatemala,GTM,2013,29
+Guatemala,GTM,2014,32
+Guatemala,GTM,2015,28
+Guinea,GIN,2012,24
+Guinea,GIN,2013,24
+Guinea,GIN,2014,25
+Guinea,GIN,2015,25
+Guinea-Bissau,GNB,2012,25
+Guinea-Bissau,GNB,2013,19
+Guinea-Bissau,GNB,2014,19
+Guinea-Bissau,GNB,2015,17
+Guyana,GUY,2012,28
+Guyana,GUY,2013,27
+Guyana,GUY,2014,30
+Guyana,GUY,2015,29
+Haiti,HTI,2012,19
+Haiti,HTI,2013,19
+Haiti,HTI,2014,19
+Haiti,HTI,2015,17
+Honduras,HND,2012,28
+Honduras,HND,2013,26
+Honduras,HND,2014,29
+Honduras,HND,2015,31
+Hong Kong,HKG,2012,77
+Hong Kong,HKG,2013,75
+Hong Kong,HKG,2014,74
+Hong Kong,HKG,2015,75
+Hungary,HUN,2012,55
+Hungary,HUN,2013,54
+Hungary,HUN,2014,54
+Hungary,HUN,2015,51
+Iceland,ISL,2012,82
+Iceland,ISL,2013,78
+Iceland,ISL,2014,79
+Iceland,ISL,2015,79
+India,IND,2012,36
+India,IND,2013,36
+India,IND,2014,38
+India,IND,2015,38
+Indonesia,IDN,2012,32
+Indonesia,IDN,2013,32
+Indonesia,IDN,2014,34
+Indonesia,IDN,2015,36
+Iran,IRN,2012,28
+Iran,IRN,2013,25
+Iran,IRN,2014,27
+Iran,IRN,2015,27
+Iraq,IRQ,2012,18
+Iraq,IRQ,2013,16
+Iraq,IRQ,2014,16
+Iraq,IRQ,2015,16
+Ireland,IRL,2012,69
+Ireland,IRL,2013,72
+Ireland,IRL,2014,74
+Ireland,IRL,2015,75
+Israel,ISR,2012,60
+Israel,ISR,2013,61
+Israel,ISR,2014,60
+Israel,ISR,2015,61
+Italy,ITA,2012,42
+Italy,ITA,2013,43
+Italy,ITA,2014,43
+Italy,ITA,2015,44
+Jamaica,JAM,2012,38
+Jamaica,JAM,2013,38
+Jamaica,JAM,2014,38
+Jamaica,JAM,2015,41
+Japan,JPN,2012,74
+Japan,JPN,2013,74
+Japan,JPN,2014,76
+Japan,JPN,2015,75
+Jordan,JOR,2012,48
+Jordan,JOR,2013,45
+Jordan,JOR,2014,49
+Jordan,JOR,2015,53
+Kazakhstan,KAZ,2012,28
+Kazakhstan,KAZ,2013,26
+Kazakhstan,KAZ,2014,29
+Kazakhstan,KAZ,2015,28
+Kenya,KEN,2012,27
+Kenya,KEN,2013,27
+Kenya,KEN,2014,25
+Kenya,KEN,2015,25
+Kosovo,OWID_KOS,2012,34
+Kosovo,OWID_KOS,2013,33
+Kosovo,OWID_KOS,2014,33
+Kosovo,OWID_KOS,2015,33
+Kuwait,KWT,2012,44
+Kuwait,KWT,2013,43
+Kuwait,KWT,2014,44
+Kuwait,KWT,2015,49
+Kyrgyzstan,KGZ,2012,24
+Kyrgyzstan,KGZ,2013,24
+Kyrgyzstan,KGZ,2014,27
+Kyrgyzstan,KGZ,2015,28
+Laos,LAO,2012,21
+Laos,LAO,2013,26
+Laos,LAO,2014,25
+Laos,LAO,2015,25
+Latvia,LVA,2012,49
+Latvia,LVA,2013,53
+Latvia,LVA,2014,55
+Latvia,LVA,2015,55
+Lebanon,LBN,2012,30
+Lebanon,LBN,2013,28
+Lebanon,LBN,2014,27
+Lebanon,LBN,2015,28
+Lesotho,LSO,2012,45
+Lesotho,LSO,2013,49
+Lesotho,LSO,2014,49
+Lesotho,LSO,2015,44
+Liberia,LBR,2012,41
+Liberia,LBR,2013,38
+Liberia,LBR,2014,37
+Liberia,LBR,2015,37
+Libya,LBY,2012,21
+Libya,LBY,2013,15
+Libya,LBY,2014,18
+Libya,LBY,2015,16
+Lithuania,LTU,2012,54
+Lithuania,LTU,2013,57
+Lithuania,LTU,2014,58
+Lithuania,LTU,2015,61
+Luxembourg,LUX,2012,80
+Luxembourg,LUX,2013,80
+Luxembourg,LUX,2014,82
+Luxembourg,LUX,2015,81
+Macedonia,MKD,2012,43
+Macedonia,MKD,2013,44
+Macedonia,MKD,2014,45
+Macedonia,MKD,2015,42
+Madagascar,MDG,2012,32
+Madagascar,MDG,2013,28
+Madagascar,MDG,2014,28
+Madagascar,MDG,2015,28
+Malawi,MWI,2012,37
+Malawi,MWI,2013,37
+Malawi,MWI,2014,33
+Malawi,MWI,2015,31
+Malaysia,MYS,2012,49
+Malaysia,MYS,2013,50
+Malaysia,MYS,2014,52
+Malaysia,MYS,2015,50
+Mali,MLI,2012,34
+Mali,MLI,2013,28
+Mali,MLI,2014,32
+Mali,MLI,2015,35
+Malta,MLT,2012,57
+Malta,MLT,2013,56
+Malta,MLT,2014,55
+Malta,MLT,2015,56
+Mauritania,MRT,2012,31
+Mauritania,MRT,2013,30
+Mauritania,MRT,2014,30
+Mauritania,MRT,2015,31
+Mauritius,MUS,2012,57
+Mauritius,MUS,2013,52
+Mauritius,MUS,2014,54
+Mauritius,MUS,2015,53
+Mexico,MEX,2012,34
+Mexico,MEX,2013,34
+Mexico,MEX,2014,35
+Mexico,MEX,2015,35
+Moldova,MDA,2012,36
+Moldova,MDA,2013,35
+Moldova,MDA,2014,35
+Moldova,MDA,2015,33
+Mongolia,MNG,2012,36
+Mongolia,MNG,2013,38
+Mongolia,MNG,2014,39
+Mongolia,MNG,2015,39
+Montenegro,MNE,2012,41
+Montenegro,MNE,2013,44
+Montenegro,MNE,2014,42
+Montenegro,MNE,2015,44
+Morocco,MAR,2012,37
+Morocco,MAR,2013,37
+Morocco,MAR,2014,39
+Morocco,MAR,2015,36
+Mozambique,MOZ,2012,31
+Mozambique,MOZ,2013,30
+Mozambique,MOZ,2014,31
+Mozambique,MOZ,2015,31
+Myanmar,MMR,2012,15
+Myanmar,MMR,2013,21
+Myanmar,MMR,2014,21
+Myanmar,MMR,2015,22
+Namibia,NAM,2012,48
+Namibia,NAM,2013,48
+Namibia,NAM,2014,49
+Namibia,NAM,2015,53
+Nepal,NPL,2012,27
+Nepal,NPL,2013,31
+Nepal,NPL,2014,29
+Nepal,NPL,2015,27
+Netherlands,NLD,2012,84
+Netherlands,NLD,2013,83
+Netherlands,NLD,2014,83
+Netherlands,NLD,2015,87
+New Zealand,NZL,2012,90
+New Zealand,NZL,2013,91
+New Zealand,NZL,2014,91
+New Zealand,NZL,2015,88
+Nicaragua,NIC,2012,29
+Nicaragua,NIC,2013,28
+Nicaragua,NIC,2014,28
+Nicaragua,NIC,2015,27
+Niger,NER,2012,33
+Niger,NER,2013,34
+Niger,NER,2014,35
+Niger,NER,2015,34
+Nigeria,NGA,2012,27
+Nigeria,NGA,2013,25
+Nigeria,NGA,2014,27
+Nigeria,NGA,2015,26
+North Korea,PRK,2012,8
+North Korea,PRK,2013,8
+North Korea,PRK,2014,8
+North Korea,PRK,2015,8
+Norway,NOR,2012,85
+Norway,NOR,2013,86
+Norway,NOR,2014,86
+Norway,NOR,2015,87
+Oman,OMN,2012,47
+Oman,OMN,2013,47
+Oman,OMN,2014,45
+Oman,OMN,2015,45
+Pakistan,PAK,2012,27
+Pakistan,PAK,2013,28
+Pakistan,PAK,2014,29
+Pakistan,PAK,2015,30
+Panama,PAN,2012,38
+Panama,PAN,2013,35
+Panama,PAN,2014,37
+Panama,PAN,2015,39
+Papua New Guinea,PNG,2012,25
+Papua New Guinea,PNG,2013,25
+Papua New Guinea,PNG,2014,25
+Papua New Guinea,PNG,2015,25
+Paraguay,PRY,2012,25
+Paraguay,PRY,2013,24
+Paraguay,PRY,2014,24
+Paraguay,PRY,2015,27
+Peru,PER,2012,38
+Peru,PER,2013,38
+Peru,PER,2014,38
+Peru,PER,2015,36
+Philippines,PHL,2012,34
+Philippines,PHL,2013,36
+Philippines,PHL,2014,38
+Philippines,PHL,2015,35
+Poland,POL,2012,58
+Poland,POL,2013,60
+Poland,POL,2014,61
+Poland,POL,2015,62
+Portugal,PRT,2012,63
+Portugal,PRT,2013,62
+Portugal,PRT,2014,63
+Portugal,PRT,2015,63
+Puerto Rico,PRI,2012,63
+Puerto Rico,PRI,2013,62
+Puerto Rico,PRI,2014,63
+Qatar,QAT,2012,68
+Qatar,QAT,2013,68
+Qatar,QAT,2014,69
+Qatar,QAT,2015,71
+Romania,ROU,2012,44
+Romania,ROU,2013,43
+Romania,ROU,2014,43
+Romania,ROU,2015,46
+Russia,RUS,2012,28
+Russia,RUS,2013,28
+Russia,RUS,2014,27
+Russia,RUS,2015,29
+Rwanda,RWA,2012,53
+Rwanda,RWA,2013,53
+Rwanda,RWA,2014,49
+Rwanda,RWA,2015,54
+Saint Vincent and the Grenadines,VCT,2012,62
+Saint Vincent and the Grenadines,VCT,2013,62
+Saint Vincent and the Grenadines,VCT,2014,67
+Samoa,WSM,2014,52
+Sao Tome and Principe,STP,2012,42
+Sao Tome and Principe,STP,2013,42
+Sao Tome and Principe,STP,2014,42
+Sao Tome and Principe,STP,2015,42
+Saudi Arabia,SAU,2012,44
+Saudi Arabia,SAU,2013,46
+Saudi Arabia,SAU,2014,49
+Saudi Arabia,SAU,2015,52
+Senegal,SEN,2012,36
+Senegal,SEN,2013,41
+Senegal,SEN,2014,43
+Senegal,SEN,2015,44
+Serbia,SRB,2012,39
+Serbia,SRB,2013,42
+Serbia,SRB,2014,41
+Serbia,SRB,2015,40
+Seychelles,SYC,2012,52
+Seychelles,SYC,2013,54
+Seychelles,SYC,2014,55
+Seychelles,SYC,2015,55
+Sierra Leone,SLE,2012,31
+Sierra Leone,SLE,2013,30
+Sierra Leone,SLE,2014,31
+Sierra Leone,SLE,2015,29
+Singapore,SGP,2012,87
+Singapore,SGP,2013,86
+Singapore,SGP,2014,84
+Singapore,SGP,2015,85
+Slovakia,SVK,2012,46
+Slovakia,SVK,2013,47
+Slovakia,SVK,2014,50
+Slovakia,SVK,2015,51
+Slovenia,SVN,2012,61
+Slovenia,SVN,2013,57
+Slovenia,SVN,2014,58
+Slovenia,SVN,2015,60
+Somalia,SOM,2012,8
+Somalia,SOM,2013,8
+Somalia,SOM,2014,8
+Somalia,SOM,2015,8
+South Africa,ZAF,2012,43
+South Africa,ZAF,2013,42
+South Africa,ZAF,2014,44
+South Africa,ZAF,2015,44
+South Korea,KOR,2012,56
+South Korea,KOR,2013,55
+South Korea,KOR,2014,55
+South Korea,KOR,2015,56
+South Sudan,SSD,2013,14
+South Sudan,SSD,2014,15
+South Sudan,SSD,2015,15
+Spain,ESP,2012,65
+Spain,ESP,2013,59
+Spain,ESP,2014,60
+Spain,ESP,2015,58
+Sri Lanka,LKA,2012,40
+Sri Lanka,LKA,2013,37
+Sri Lanka,LKA,2014,38
+Sri Lanka,LKA,2015,37
+Sudan,SDN,2012,13
+Sudan,SDN,2013,11
+Sudan,SDN,2014,11
+Sudan,SDN,2015,12
+Suriname,SUR,2012,37
+Suriname,SUR,2013,36
+Suriname,SUR,2014,36
+Suriname,SUR,2015,36
+Swaziland,SWZ,2012,37
+Swaziland,SWZ,2013,39
+Swaziland,SWZ,2014,43
+Sweden,SWE,2012,88
+Sweden,SWE,2013,89
+Sweden,SWE,2014,87
+Sweden,SWE,2015,89
+Switzerland,CHE,2012,86
+Switzerland,CHE,2013,85
+Switzerland,CHE,2014,86
+Switzerland,CHE,2015,86
+Syria,SYR,2012,26
+Syria,SYR,2013,17
+Syria,SYR,2014,20
+Syria,SYR,2015,18
+Taiwan,TWN,2012,61
+Taiwan,TWN,2013,61
+Taiwan,TWN,2014,61
+Taiwan,TWN,2015,62
+Tajikistan,TJK,2012,22
+Tajikistan,TJK,2013,22
+Tajikistan,TJK,2014,23
+Tajikistan,TJK,2015,26
+Tanzania,TZA,2012,35
+Tanzania,TZA,2013,33
+Tanzania,TZA,2014,31
+Tanzania,TZA,2015,30
+Thailand,THA,2012,37
+Thailand,THA,2013,35
+Thailand,THA,2014,38
+Thailand,THA,2015,38
+Timor,TLS,2012,33
+Timor,TLS,2013,30
+Timor,TLS,2014,28
+Timor,TLS,2015,28
+Togo,TGO,2012,30
+Togo,TGO,2013,29
+Togo,TGO,2014,29
+Togo,TGO,2015,32
+Trinidad and Tobago,TTO,2012,39
+Trinidad and Tobago,TTO,2013,38
+Trinidad and Tobago,TTO,2014,38
+Trinidad and Tobago,TTO,2015,39
+Tunisia,TUN,2012,41
+Tunisia,TUN,2013,41
+Tunisia,TUN,2014,40
+Tunisia,TUN,2015,38
+Turkey,TUR,2012,49
+Turkey,TUR,2013,50
+Turkey,TUR,2014,45
+Turkey,TUR,2015,42
+Turkmenistan,TKM,2012,17
+Turkmenistan,TKM,2013,17
+Turkmenistan,TKM,2014,17
+Turkmenistan,TKM,2015,18
+Uganda,UGA,2012,29
+Uganda,UGA,2013,26
+Uganda,UGA,2014,26
+Uganda,UGA,2015,25
+Ukraine,UKR,2012,26
+Ukraine,UKR,2013,25
+Ukraine,UKR,2014,26
+Ukraine,UKR,2015,27
+United Arab Emirates,ARE,2012,68
+United Arab Emirates,ARE,2013,69
+United Arab Emirates,ARE,2014,70
+United Arab Emirates,ARE,2015,70
+United Kingdom,GBR,2012,74
+United Kingdom,GBR,2013,76
+United Kingdom,GBR,2014,78
+United Kingdom,GBR,2015,81
+United States,USA,2012,73
+United States,USA,2013,73
+United States,USA,2014,74
+United States,USA,2015,76
+Uruguay,URY,2012,72
+Uruguay,URY,2013,73
+Uruguay,URY,2014,73
+Uruguay,URY,2015,74
+Uzbekistan,UZB,2012,17
+Uzbekistan,UZB,2013,17
+Uzbekistan,UZB,2014,18
+Uzbekistan,UZB,2015,19
+Venezuela,VEN,2012,19
+Venezuela,VEN,2013,20
+Venezuela,VEN,2014,19
+Venezuela,VEN,2015,17
+Vietnam,VNM,2012,31
+Vietnam,VNM,2013,31
+Vietnam,VNM,2014,31
+Vietnam,VNM,2015,31
+Yemen,YEM,2012,23
+Yemen,YEM,2013,18
+Yemen,YEM,2014,19
+Yemen,YEM,2015,18
+Zambia,ZMB,2012,37
+Zambia,ZMB,2013,38
+Zambia,ZMB,2014,38
+Zambia,ZMB,2015,38
+Zimbabwe,ZWE,2012,20
+Zimbabwe,ZWE,2013,21
+Zimbabwe,ZWE,2014,21
+Zimbabwe,ZWE,2015,21
